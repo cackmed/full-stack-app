@@ -1,7 +1,7 @@
 {
-  "name": "light-feather-code-challenge",
+  "name": "full-stack-docker-project",
   "version": "1.0.0",
-  "description": "Nodejs Express Portion of the Light Feather Code Challenge",
+  "description": "Nodejs Express Portion of the full stack docker project",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon",
